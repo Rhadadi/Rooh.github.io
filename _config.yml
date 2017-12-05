@@ -60,7 +60,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Rooholah Hadadi
-  github: rhadadi/rhadadi.github.io    # eg. daattali
+  github: rhadadi    # eg. daattali
   twitter: rooholah   # eg. daattali
   linkedin: hadadi  # eg. daattali
   email: rhadadi@gmail.com
@@ -99,7 +99,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "rooholah"
+# disqus: "rooholah"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
