@@ -6,9 +6,7 @@ published: true
 
 In this post, I am going through a lecture note I found on Quantecon page.
 
-
-# Pandas and Panel Data Application 
-https://lectures.quantecon.org/py/pandas_panel.html
+Source: [Quantecon](https://lectures.quantecon.org/py/pandas_panel.html)
 
 2017-08-19 23:26:47 
 
