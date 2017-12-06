@@ -8,9 +8,6 @@ In this post, I am going through a lecture note I found on Quantecon page.
 
 Source: [Quantecon](https://lectures.quantecon.org/py/pandas_panel.html)
 
-2017-08-19 23:26:47 
-
-
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', 6)
