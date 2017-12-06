@@ -30,9 +30,7 @@ realwage = pd.read_csv(
 realwage.head()  # Show first 5 rows
 ```
 
-~~~
-import pandas as pd
-~~~
+`
 
 
 
