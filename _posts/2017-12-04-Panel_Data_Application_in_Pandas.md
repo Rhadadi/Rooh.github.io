@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pandas and Panel Data Application!
+published: true
 ---
 
 In this post, I am going through a lecture note I found on Quantecon page.
@@ -46,7 +47,7 @@ realwage.head()  # Show first 5 rows
         vertical-align: top;
     }
 </style>
-<table border="1" class="dataframe">
+<table border=".1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -4352,4 +4353,3 @@ sns.boxplot(
 
 
 ![png](output_68_1.png)
-
