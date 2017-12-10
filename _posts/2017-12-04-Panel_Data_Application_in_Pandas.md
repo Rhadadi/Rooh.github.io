@@ -25,7 +25,6 @@ realwage = pd.read_csv(
 realwage.head()  # Show first 5 rows
 ```
 
-<script src="https://gist.github.com/Rhadadi/eefdb3651c75225f84ae6f83bc9c49ac.js"></script>
 
 <div>
 <style>
