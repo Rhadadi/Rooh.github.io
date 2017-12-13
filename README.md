@@ -1,1 +1,1 @@
-# My personal blog is [Here](https://rhadadi.github.io)
+# My personal blog is [here](https://rhadadi.github.io)
